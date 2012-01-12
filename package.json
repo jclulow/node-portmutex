@@ -1,0 +1,17 @@
+{
+  "name": "portmutex",
+  "version": "0.0.1",
+  "author": {
+    "name": "Joshua M. Clulow",
+    "email": "josh@sysmgr.org",
+    "url": "http://blog.sysmgr.org"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/jclulow/node-portmutex"
+  },
+  "engines": [ "node" ],
+  "main": "portmutex.js",
+  "description": "Process Mutual Exclusion using localhost TCP ports for Locking",
+  "homepage": "https://github.com/jclulow/node-portmutex"
+}
